@@ -1,11 +1,8 @@
 {
   "name": "backend02ecomms",
-  "version": "1.0.0", 
-  "description": "api ecommerce",
-  "main": "server.js", 
+  "version": "1.0.0",
   "scripts": {
-   
-    "start": "node server.js", 
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
    
   
