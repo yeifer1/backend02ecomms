@@ -1,10 +1,10 @@
 {
   "name": "backend02ecomms",
   "version": "1.0.0", 
-  "description": "Descripción del proyecto",
+  "description": "api ecommerce",
   "main": "server.js", 
   "scripts": {
-    "build": "echo \"No build specified\" && exit 1",
+   
     "start": "node server.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
    
