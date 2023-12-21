@@ -1,18 +1,20 @@
 {
   "name": "backend02ecomms",
-  "version": "1.0.1",  
+  "version": "1.0.0", 
   "description": "Descripción del proyecto",
   "main": "server.js", 
   "scripts": {
+    "build": "echo \"No build specified\" && exit 1",
     "start": "node server.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
+   
   
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yeifer1/backend02ecomms.git"
   },
-  "author": "Tu Nombre",
+  "author": "yeison hoyos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yeifer1/backend02ecomms/issues"
